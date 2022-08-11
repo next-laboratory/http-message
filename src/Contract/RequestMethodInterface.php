@@ -9,7 +9,7 @@ declare(strict_types=1);
  * @license  https://github.com/marxphp/max/blob/master/LICENSE
  */
 
-namespace Max\Http\Message\Contracts;
+namespace Max\Http\Message\Contract;
 
 /**
  * Defines constants for common HTTP request methods.
